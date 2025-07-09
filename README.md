@@ -35,5 +35,5 @@ The goal of this project is to use the HuskyLens camera module in Color Recognit
 
 3. Sample Arduino Code
    
-📌 The full Arduino code is uploaded in this repository.
+The full Arduino code is uploaded in this repository.
 
